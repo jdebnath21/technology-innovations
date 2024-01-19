@@ -5,7 +5,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Code Annotation Examples
 
-### Code Blocks
+### Interesting Code Blocks
 
 Some `code` goes here
 
