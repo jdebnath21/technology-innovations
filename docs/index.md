@@ -26,7 +26,7 @@ import tensorflow as tf
 def whatever()
 ```
 
-#### With some title
+#### With some title example
 
 ``` py title="bubblesort.py", linenums="1"
 def bubble_sort(items):
