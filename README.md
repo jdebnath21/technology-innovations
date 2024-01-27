@@ -9,8 +9,8 @@
 ## Creating the Virtual Environment
 
 `python -m venv venv`  
-`source venv/bin/activate`
-`pip --version`
+`source venv/bin/activate`  
+`pip --version`  
 `pip install mkdocs-material`
 
 ## Open in VS Code
@@ -23,4 +23,10 @@
 
 This should create the mkdocs.yml and docs folder to start with.
 
+## Publish to GitHub
 
+add a folder `.github/workflows/ci.yml`
+
+- Go to GitHub Settings 
+- Source > Deploy from a branch
+- Branch `gh-pages` and Save
