@@ -16,7 +16,7 @@
 ## Open in VS Code
 `.code`
 
-## new mkdocs website
+## New mkdocs website
 
 `mkdocs new .`
 `mkdocs serve`
